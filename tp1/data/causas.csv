@@ -1,0 +1,144 @@
+incendio_anio;incendio_provincia;incendio_total_numero;incendio_negligencia_numero;incendio_intencional_numero;incendio_natural_numero;incendio_desconocida_numero
+2011;Buenos Aires;1174;95;66;96;917
+2011;Catamarca;38;1;0;0;37
+2011;Chaco;529;70;9;10;440
+2011;Chubut;169;54;44;5;66
+2011;Ciudad Autónoma de Buenos Aires;3;0;0;0;3
+2011;Córdoba;147;0;147;0;0
+2011;Corrientes;18;1;12;2;3
+2011;Entre Ríos;38;12;4;0;22
+2011;Formosa;131;127;4;0;0
+2011;Jujuy;212;11;17;0;184
+2011;La Pampa;38;6;0;32;0
+2011;La Rioja;161;48;3;5;105
+2011;Mendoza;123;29;80;2;12
+2011;Misiones;96;38;0;0;58
+2011;Neuquén;157;94;11;10;42
+2011;Río Negro;1130;155;850;0;125
+2011;Salta;358;46;52;91;169
+2011;San Juan;401;270;131;0;0
+2011;San Luis;33;8;3;0;22
+2011;Santa Cruz;11;5;1;0;5
+2011;Santa Fe;1658;425;1214;0;19
+2011;Santiago del Estero;93;0;89;0;4
+2011;Tierra del Fuego;20;14;2;1;3
+2012;Buenos Aires;111;15;7;5;84
+2012;Catamarca;84;9;29;0;46
+2012;Chaco;597;6;0;5;586
+2012;Chubut;89;16;39;1;33
+2012;Ciudad Autónoma de Buenos Aires;6;0;0;0;6
+2012;Córdoba;135;0;135;0;0
+2012;Corrientes;215;0;27;8;180
+2012;Entre Ríos;94;12;45;0;37
+2012;Formosa;42;42;0;0;0
+2012;Jujuy;199;0;28;0;171
+2012;La Pampa;25;11;2;11;1
+2012;La Rioja;167;19;0;1;147
+2012;Mendoza;172;12;99;9;52
+2012;Misiones;202;67;5;0;130
+2012;Neuquén;105;42;17;30;16
+2012;Río Negro;784;211;501;1;71
+2012;Salta;443;33;46;52;312
+2012;San Juan;307;105;197;5;0
+2012;San Luis;33;7;21;3;2
+2012;Santa Cruz;14;8;0;0;6
+2012;Santa Fe;1613;127;1472;0;14
+2012;Santiago del Estero;72;0;72;0;0
+2012;Tierra del Fuego;10;8;1;0;1
+2012;Tucumán;80;0;38;0;42
+2013;Buenos Aires;458;18;11;0;429
+2013;Catamarca;90;7;7;0;76
+2013;Chaco;480;4;3;0;473
+2013;Chubut;106;44;34;0;28
+2013;Ciudad Autónoma de Buenos Aires;6;1;0;0;5
+2013;Córdoba;173;0;173;0;0
+2013;Corrientes;101;21;0;0;80
+2013;Entre Ríos;112;3;21;0;88
+2013;Formosa;326;326;0;0;0
+2013;Jujuy;246;15;2;0;229
+2013;La Pampa;87;53;2;32;0
+2013;La Rioja;248;34;14;0;200
+2013;Mendoza;185;18;139;8;20
+2013;Misiones;98;28;0;0;70
+2013;Neuquén;141;44;57;28;12
+2013;Río Negro;1036;194;149;0;693
+2013;Salta;870;0;13;591;266
+2013;San Juan;187;26;161;0;0
+2013;San Luis;36;14;18;2;2
+2013;Santa Cruz;8;5;0;0;3
+2013;Santa Fe;1625;348;1158;11;108
+2013;Santiago del Estero;45;0;45;0;0
+2013;Tierra del Fuego;16;10;0;0;6
+2013;Tucumán;4;1;3;0;0
+2014;Buenos Aires;2788;67;31;54;2636
+2014;Catamarca;69;2;3;0;64
+2014;Chaco;445;0;0;0;445
+2014;Chubut;76;25;31;1;19
+2014;Ciudad Autónoma de Buenos Aires;2;1;0;0;1
+2014;Córdoba;291;0;291;0;0
+2014;Corrientes;64;0;0;0;64
+2014;Entre Ríos;24;2;12;0;10
+2014;Formosa;63;0;50;0;13
+2014;Jujuy;158;25;12;1;120
+2014;La Pampa;50;3;4;33;10
+2014;La Rioja;167;40;8;0;119
+2014;Mendoza;159;6;108;6;39
+2014;Misiones;102;20;0;0;82
+2014;Neuquén;90;54;30;0;6
+2014;Río Negro;904;92;30;2;780
+2014;Salta;236;0;0;38;198
+2014;San Juan;263;52;211;0;0
+2014;San Luis;41;12;23;6;0
+2014;Santa Cruz;3;3;0;0;0
+2014;Santa Fe;856;156;617;19;64
+2014;Santiago del Estero;85;7;7;0;71
+2014;Tierra del Fuego;12;6;1;0;5
+2014;Tucumán;3;0;3;0;0
+2015;Buenos Aires;1794;223;83;28;1460
+2015;Catamarca;186;30;24;3;129
+2015;Chaco;222;0;0;0;222
+2015;Chubut;82;27;40;2;13
+2015;Ciudad Autónoma de Buenos Aires;3;0;0;0;3
+2015;Córdoba;3;1;1;1;0
+2015;Corrientes;22;0;0;0;22
+2015;Entre Ríos;42;5;5;0;32
+2015;Formosa;68;3;65;0;0
+2015;Jujuy;173;23;0;0;150
+2015;La Pampa;72;10;11;47;4
+2015;La Rioja;222;0;12;43;167
+2015;Mendoza;164;18;130;4;12
+2015;Misiones;19;0;0;0;19
+2015;Neuquén;49;30;17;2;0
+2015;Río Negro;1063;64;29;0;970
+2015;Salta;338;2;0;71;265
+2015;San Juan;240;129;111;0;0
+2015;San Luis;74;40;30;2;2
+2015;Santa Cruz;55;34;2;0;19
+2015;Santa Fe;1047;307;592;3;145
+2015;Santiago del Estero;65;0;0;0;65
+2015;Tierra del Fuego;20;12;2;0;6
+2015;Tucumán;22;5;10;3;4
+2016;Buenos Aires;2802;139;102;46;2515
+2016;Catamarca;197;25;23;3;146
+2016;Chaco;253;0;0;0;253
+2016;Chubut;89;30;23;3;33
+2016;Ciudad Autónoma de Buenos Aires;5;0;0;0;5
+2016;Córdoba;283;81;92;3;107
+2016;Corrientes;12;0;0;0;12
+2016;Entre Ríos;23;2;0;0;21
+2016;Formosa;61;7;54;0;0
+2016;Jujuy;195;52;1;0;142
+2016;La Pampa;91;23;2;58;8
+2016;La Rioja;262;25;3;3;231
+2016;Mendoza;176;9;110;14;43
+2016;Misiones;36;7;0;0;29
+2016;Neuquén;76;34;21;14;7
+2016;Río Negro;766;55;5;0;706
+2016;Salta;393;0;4;0;389
+2016;San Juan;275;122;153;0;0
+2016;San Luis;122;11;0;24;87
+2016;Santa Cruz;20;9;0;0;11
+2016;Santa Fe;1241;252;702;0;287
+2016;Santiago del Estero;76;2;1;0;73
+2016;Tierra del Fuego;14;12;0;0;2
+2016;Tucumán;10;0;0;0;10

@@ -1,0 +1,14 @@
+provincia;estacion;media;ene;feb;mar;abr;may;jun;jul;ago;sep;oct;nov;dic
+Buenos Aires;JUNÍN AERO;Temperatura mínima (°C);16.6;15.8;14.2;10.4;7.2;4.5;3.6;4.8;6.7;10.1;12.8;15.2
+Chubut;ESQUEL AERO;Temperatura mínima (°C);8.2;7.7;5.5;2.7;0.5;-1.8;-2.8;-1.4;0.0;2.3;4.7;7.0
+Corrientes;CORRIENTES AERO;Temperatura mínima (°C);21.3;20.8;19.7;16.9;13.4;11.6;10.4;11.5;13.1;16.3;17.9;20.1
+Cordoba;RÍO CUARTO AERO;Temperatura mínima (°C);17.5;16.6;15.2;11.5;8.0;4.9;4.0;5.6;7.9;11.6;14.3;16.6
+Entre Rios;GUALEGUAYCHÚ AERO;Temperatura mínima (°C);18.8;18.0;16.5;12.6;9.3;6.7;6.0;7.4;9.0;12.1;14.7;17.0
+Jujuy;JUJUY AERO;Temperatura mínima (°C);18.3;17.5;17.1;14.0;10.0;6.8;5.8;8.2;10.6;14.8;16.7;18.0
+La Pampa;SANTA ROSA AERO;Temperatura mínima (°C);16.4;15.1;13.4;9.2;5.7;3.0;2.0;3.4;5.7;9.2;12.2;15.1
+Mendoza;SAN RAFAEL AERO;Temperatura mínima (°C);15.4;14.5;12.8;8.4;4.8;2.0;0.9;2.4;4.7;8.3;11.2;14.0
+Misiones;IGUAZÚ AERO;Temperatura mínima (°C);20.5;20.2;19.3;16.8;13.1;11.7;10.8;12.2;13.7;16.5;17.8;19.5
+Neuquen;NEUQUÉN AERO;Temperatura mínima (°C);15.5;14.2;11.6;6.8;3.5;1.5;0.2;1.6;4.4;8.2;11.6;14.5
+Rio Negro;BARILOCHE AERO;Temperatura mínima (°C);6.6;6.3;4.7;2.3;0.6;-0.6;-1.6;-1.1;-0.2;1.8;3.7;5.9
+San Juan;SAN JUAN AERO;Temperatura mínima (°C);19.5;18.2;16.2;10.7;5.8;1.5;0.7;2.9;6.5;11.4;14.8;18.0
+Tucuman;TUCUMÁN AERO;Temperatura mínima (°C);20.1;19.3;18.5;15.1;11.4;8.2;6.8;8.5;11.0;15.2;17.5;19.3

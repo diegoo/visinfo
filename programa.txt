@@ -1,0 +1,21 @@
+Programa 
+Unidad 1. Motivaciones. Historia. Conceptos fundamentales. Técnicas de visualización de datos. Visualización de la Información vs. Visualización Científica. Ejemplos históricos. Joseph Minard, William Playfair, John Snow, Florence Nightingale, Harry Beck. 
+
+Unidad 2. Modelos y marcos conceptuales: Ben Fry, Ben Shneiderman, Haber & McNabb, Ken Brodlie, Daniel Keim. Tipos de datos (nominales, ordinales, cuantitativos, vectoriales, etc.). Datos uni- y multivaluados y multivariados. Datos no estructurados. 
+
+Unidad 3. Uso del color. Definiciones. Teoría del color. Percepción del color. Ejemplos de visualización con color. Paletas univariadas y bivariadas. Aplicaciones en visualización de información. 
+
+Unidad 4. Percepción y visualización. Introducción a la percepción. El aparato visual humano. Diferentes atributos (geométricos, cromáticos, retinianos). Uso eficaz de los atributos visuales. Ejemplos de visualización con diferentes atributos.
+
+Unidad 5. El problema de la presentación, foco y contexto, supresión, lentes mágicos, zoom y desplazamiento, acercamiento semántico. 
+
+Unidad 6. Conectividad y conexiones. Visualización de grafos, redes, árboles. Aplicaciones en redes sociales. 
+
+Unidad 7. Visualización de Documentos. Visualizando lo no visual, consultas, el sistema de barras apiladas, Mapas Temáticos, Galaxias, Galaxias de Noticias, Mapas de Kohonen. 
+
+Unidad 8. Sistemas de Información Geográfica. Representación, Almacenamiento, Recuperación,Presentación, Interacción. 
+
+Unidad 9. Visualización Geoespacial. Visualización de la Incertidumbre. Ejemplos de casos de estudios en distintos dominios de aplicación. 
+
+Unidad 10. Visualización analítica. Desafíos y oportunidades.
+

@@ -1,0 +1,23 @@
+https://stackoverflow.com/questions/36118998/shade-states-of-a-country-according-to-dictionary-values-with-basemap
+
+https://gadm.org/download_country_v3.html
+
+https://www.bigendiandata.com/2017-06-27-Mapping_in_Jupyter/
+https://jakevdp.github.io/PythonDataScienceHandbook/04.13-geographic-data-with-basemap.html
+http://www.geomapik.com/desarrollo-programacion-gis/mapas-con-python-geopandas-matplotlib/
+http://www.geomapik.com/desarrollo-programacion-gis/mapas-plotly-visualizacion-datos-espaciales/
+https://plotly.com/python/choropleth-maps/
+https://towardsdatascience.com/lets-make-a-map-using-geopandas-pandas-and-matplotlib-to-make-a-chloropleth-map-dddc31c1983d
+https://medium.com/using-specialist-business-databases/creating-a-choropleth-map-using-geopandas-and-financial-data-c76419258746
+http://www.geomapik.com/desarrollo-programacion-gis/mapas-plotly-visualizacion-datos-espaciales/
+https://datosgobar.github.io/georef-ar-api/etl-data/
+https://gist.github.com/jkutianski/6532516#file-argentina_indec-json
+https://github.com/datosgobar/georef-ar-api
+
+--------------------------------------------------------------------------------
+
+diciembre a marzo:	provincias del sur.
+octubre a marzo: 	Entre Ríos, Corrientes, Misiones, Chaco y Buenos Aires.
+mayo a noviembre: 	provincias del norte y Córdoba, Catamarca, La Rioja, Mendoza, San Luis, Santa Fe, Santiago del Estero, Tucumán.
+
+https://www.argentina.gob.ar/sinagir/incendio-forestal/causas

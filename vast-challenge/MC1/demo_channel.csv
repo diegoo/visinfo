@@ -1,0 +1,692 @@
+,Source,Target,Weight,demo_category
+634,2,630626,5000,Rented dwellings
+635,2,536346,1000,Home maintenance
+636,510031,2,600,NA
+637,2,520660,3000,Healthcare
+638,552988,2,40000,NA
+639,2,567195,4000,Personal insurance and pensions
+640,2,527449,100,Alcohol
+641,2,459381,900,Water and other public services
+642,2,595298,2000,Groceries
+643,2,466907,600,Electricity
+644,2,589943,2000,Lodging away from home
+645,2,577992,3000,Education
+646,2,537281,400,Housekeeping supplies
+647,2,523927,200,Restaurants
+648,2,580426,1000,Telephone services
+649,2,595581,3000,Donations
+650,2,642329,1000,Household operations
+651,2,503701,1000,Miscellaneous
+652,2,571970,20,Reading
+653,2,644226,500,Property taxes
+654,2,632961,10,Personal care products and services
+655,2,473173,2000,Household furnishings
+656,2,620120,5000,Personal taxes
+657,2,621924,700,Mortgage payments
+658,27,630626,6000,Rented dwellings
+659,27,536346,900,Home maintenance
+660,510031,27,1000,NA
+661,27,520660,6000,Healthcare
+662,552988,27,50000,NA
+663,27,567195,5000,Personal insurance and pensions
+664,27,527449,400,Alcohol
+665,27,459381,700,Water and other public services
+666,27,595298,700,Groceries
+667,27,466907,600,Electricity
+668,27,589943,5000,Lodging away from home
+669,27,577992,2000,Education
+670,27,537281,50,Housekeeping supplies
+671,27,595581,1000,Donations
+672,27,616315,800,Apparel and services
+673,27,642329,2000,Household operations
+674,27,503701,4000,Miscellaneous
+675,27,644226,800,Property taxes
+676,27,632961,300,Personal care products and services
+677,27,473173,700,Household furnishings
+678,27,620120,9000,Personal taxes
+679,29,630626,6000,Rented dwellings
+680,29,536346,1000,Home maintenance
+681,552988,29,30000,NA
+682,29,567195,4000,Personal insurance and pensions
+683,29,527449,200,Alcohol
+684,29,459381,600,Water and other public services
+685,29,595298,1000,Groceries
+686,29,466907,800,Electricity
+687,29,589943,2000,Lodging away from home
+688,29,577992,2000,Education
+689,29,537281,200,Housekeeping supplies
+690,29,595581,500,Donations
+691,29,616315,400,Apparel and services
+692,29,642329,100,Household operations
+693,29,503701,1000,Miscellaneous
+694,29,644226,200,Property taxes
+695,29,632961,500,Personal care products and services
+696,29,473173,1000,Household furnishings
+697,29,620120,6000,Personal taxes
+698,29,575030,8000,Transportation
+699,29,621924,400,Mortgage payments
+700,31,503218,500,Natural gas
+701,31,630626,4000,Rented dwellings
+702,31,536346,1000,Home maintenance
+703,31,520660,2000,Healthcare
+704,552988,31,9000,NA
+705,31,567195,1000,Personal insurance and pensions
+706,31,527449,400,Alcohol
+707,31,459381,500,Water and other public services
+708,31,595298,1000,Groceries
+709,31,466907,400,Electricity
+710,31,577992,70,Education
+711,31,537281,600,Housekeeping supplies
+712,31,580426,200,Telephone services
+713,31,595581,200,Donations
+714,31,616315,500,Apparel and services
+715,31,642329,200,Household operations
+716,31,503701,2000,Miscellaneous
+717,31,644226,1000,Property taxes
+718,31,632961,300,Personal care products and services
+719,31,473173,2000,Household furnishings
+720,31,620120,700,Personal taxes
+721,31,575030,5000,Transportation
+722,31,621924,900,Mortgage payments
+723,33,630626,5000,Rented dwellings
+724,510031,33,400,NA
+725,552988,33,40000,NA
+726,33,567195,2000,Personal insurance and pensions
+727,33,527449,500,Alcohol
+728,33,459381,100,Water and other public services
+729,33,595298,3000,Groceries
+730,33,466907,500,Electricity
+731,33,577992,400,Education
+732,33,537281,200,Housekeeping supplies
+733,33,523927,3000,Restaurants
+734,33,580426,2000,Telephone services
+735,33,595581,2000,Donations
+736,33,616315,3000,Apparel and services
+737,33,642329,900,Household operations
+738,33,503701,900,Miscellaneous
+739,33,632961,500,Personal care products and services
+740,33,473173,3000,Household furnishings
+741,33,620120,10000,Personal taxes
+742,33,575030,4000,Transportation
+743,33,621924,2000,Mortgage payments
+744,34,630626,3000,Rented dwellings
+745,552988,34,10000,NA
+746,34,567195,1000,Personal insurance and pensions
+747,34,527449,200,Alcohol
+748,34,459381,200,Water and other public services
+749,34,595298,40,Groceries
+750,34,589943,300,Lodging away from home
+751,34,537281,600,Housekeeping supplies
+752,34,523927,2000,Restaurants
+753,34,580426,100,Telephone services
+754,34,595581,800,Donations
+755,34,616315,100,Apparel and services
+756,34,642329,1000,Household operations
+757,34,503701,3000,Miscellaneous
+758,34,632961,400,Personal care products and services
+759,34,473173,2000,Household furnishings
+760,34,620120,1000,Personal taxes
+761,34,575030,4000,Transportation
+762,34,621924,30,Mortgage payments
+763,35,630626,6000,Rented dwellings
+764,552988,35,40000,NA
+765,35,567195,6000,Personal insurance and pensions
+766,35,527449,80,Alcohol
+767,35,459381,600,Water and other public services
+768,35,595298,1000,Groceries
+769,35,466907,700,Electricity
+770,35,589943,1000,Lodging away from home
+771,35,537281,1000,Housekeeping supplies
+772,35,523927,3000,Restaurants
+773,35,642329,2000,Household operations
+774,35,503701,200,Miscellaneous
+775,35,571970,40,Reading
+776,35,632961,600,Personal care products and services
+777,35,473173,100,Household furnishings
+778,35,620120,6000,Personal taxes
+779,35,575030,6000,Transportation
+780,36,630626,3000,Rented dwellings
+781,510031,36,1000,NA
+782,552988,36,10000,NA
+783,36,567195,1000,Personal insurance and pensions
+784,36,527449,200,Alcohol
+785,36,459381,500,Water and other public services
+786,36,595298,2000,Groceries
+787,36,466907,300,Electricity
+788,36,589943,1000,Lodging away from home
+789,36,537281,400,Housekeeping supplies
+790,36,523927,400,Restaurants
+791,36,580426,100,Telephone services
+792,36,616315,500,Apparel and services
+793,36,642329,700,Household operations
+794,36,503701,3000,Miscellaneous
+795,36,571970,200,Reading
+796,36,632961,500,Personal care products and services
+797,36,473173,2000,Household furnishings
+798,620120,36,700,NA
+799,36,575030,9000,Transportation
+800,37,630626,2000,Rented dwellings
+801,37,536346,800,Home maintenance
+802,552988,37,20000,NA
+803,37,567195,5000,Personal insurance and pensions
+804,37,527449,400,Alcohol
+805,37,459381,200,Water and other public services
+806,37,595298,2000,Groceries
+807,37,466907,500,Electricity
+808,37,577992,2000,Education
+809,37,523927,1000,Restaurants
+810,37,616315,50,Apparel and services
+811,37,503701,2000,Miscellaneous
+812,37,571970,60,Reading
+813,37,644226,1000,Property taxes
+814,37,632961,300,Personal care products and services
+815,37,473173,2000,Household furnishings
+816,620120,37,800,NA
+817,37,621924,300,Mortgage payments
+818,38,630626,600,Rented dwellings
+819,510031,38,70,NA
+820,552988,38,20000,NA
+821,38,567195,3000,Personal insurance and pensions
+822,38,527449,300,Alcohol
+823,38,459381,200,Water and other public services
+824,38,595298,1000,Groceries
+825,38,466907,600,Electricity
+826,38,589943,600,Lodging away from home
+827,38,577992,1000,Education
+828,38,523927,1000,Restaurants
+829,38,580426,70,Telephone services
+830,38,595581,500,Donations
+831,38,616315,800,Apparel and services
+832,38,503701,2000,Miscellaneous
+833,38,571970,60,Reading
+834,38,632961,200,Personal care products and services
+835,38,473173,2000,Household furnishings
+836,620120,38,400,NA
+837,552988,39,5000,NA
+838,39,527449,200,Alcohol
+839,39,459381,200,Water and other public services
+840,39,595298,1000,Groceries
+841,39,577992,2000,Education
+842,39,537281,300,Housekeeping supplies
+843,39,523927,2000,Restaurants
+844,39,595581,200,Donations
+845,39,642329,900,Household operations
+846,39,503701,2000,Miscellaneous
+847,39,571970,90,Reading
+848,39,473173,800,Household furnishings
+849,39,620120,1000,Personal taxes
+850,39,575030,300,Transportation
+851,39,621924,3000,Mortgage payments
+852,40,503218,500,Natural gas
+853,510031,40,800,NA
+854,552988,40,10000,NA
+855,40,567195,700,Personal insurance and pensions
+856,40,527449,100,Alcohol
+857,40,459381,400,Water and other public services
+858,40,595298,1000,Groceries
+859,40,466907,500,Electricity
+860,40,589943,600,Lodging away from home
+861,40,577992,1000,Education
+862,40,537281,1000,Housekeeping supplies
+863,40,580426,100,Telephone services
+864,40,595581,400,Donations
+865,40,616315,300,Apparel and services
+866,40,642329,70,Household operations
+867,40,503701,2000,Miscellaneous
+868,40,571970,300,Reading
+869,40,473173,2000,Household furnishings
+870,620120,40,300,NA
+871,40,575030,8000,Transportation
+872,510031,41,300,NA
+873,552988,41,9000,NA
+874,41,567195,1000,Personal insurance and pensions
+875,41,527449,100,Alcohol
+876,41,459381,500,Water and other public services
+877,41,595298,1000,Groceries
+878,41,466907,70,Electricity
+879,41,589943,2000,Lodging away from home
+880,41,537281,40,Housekeeping supplies
+881,41,580426,500,Telephone services
+882,41,616315,400,Apparel and services
+883,41,503701,800,Miscellaneous
+884,41,571970,100,Reading
+885,41,632961,40,Personal care products and services
+886,41,473173,30,Household furnishings
+887,41,620120,2000,Personal taxes
+888,41,575030,400,Transportation
+889,552988,42,10000,NA
+890,42,567195,700,Personal insurance and pensions
+891,42,527449,200,Alcohol
+892,42,459381,700,Water and other public services
+893,42,595298,2000,Groceries
+894,42,466907,700,Electricity
+895,42,589943,900,Lodging away from home
+896,42,537281,500,Housekeeping supplies
+897,42,523927,1000,Restaurants
+898,42,595581,300,Donations
+899,42,616315,600,Apparel and services
+900,42,642329,800,Household operations
+901,42,503701,1000,Miscellaneous
+902,42,571970,100,Reading
+903,42,632961,200,Personal care products and services
+904,42,473173,3000,Household furnishings
+905,42,620120,400,Personal taxes
+906,42,621924,600,Mortgage payments
+907,43,503218,700,Natural gas
+908,510031,43,20,NA
+909,552988,43,10000,NA
+910,43,567195,400,Personal insurance and pensions
+911,43,527449,100,Alcohol
+912,43,459381,400,Water and other public services
+913,43,595298,1000,Groceries
+914,43,466907,300,Electricity
+915,43,589943,500,Lodging away from home
+916,43,537281,80,Housekeeping supplies
+917,43,523927,2000,Restaurants
+918,43,580426,500,Telephone services
+919,43,616315,1000,Apparel and services
+920,43,503701,400,Miscellaneous
+921,43,571970,70,Reading
+922,43,632961,70,Personal care products and services
+923,43,473173,300,Household furnishings
+924,43,620120,2000,Personal taxes
+925,43,575030,6000,Transportation
+926,44,630626,6000,Rented dwellings
+927,552988,44,200000,NA
+928,44,567195,6000,Personal insurance and pensions
+929,44,527449,400,Alcohol
+930,44,459381,800,Water and other public services
+931,44,595298,500,Groceries
+932,44,466907,1000,Electricity
+933,44,589943,3000,Lodging away from home
+934,44,577992,2000,Education
+935,44,523927,5000,Restaurants
+936,44,616315,9000,Apparel and services
+937,44,642329,900,Household operations
+938,44,571970,200,Reading
+939,44,632961,400,Personal care products and services
+940,44,473173,2000,Household furnishings
+941,44,620120,4000,Personal taxes
+942,44,575030,7000,Transportation
+943,45,630626,6000,Rented dwellings
+944,45,536346,2,Home maintenance
+945,510031,45,4000,NA
+946,45,520660,3000,Healthcare
+947,552988,45,40000,NA
+948,45,567195,10000,Personal insurance and pensions
+949,45,527449,200,Alcohol
+950,45,459381,800,Water and other public services
+951,45,595298,3000,Groceries
+952,45,466907,700,Electricity
+953,45,589943,3000,Lodging away from home
+954,45,577992,1000,Education
+955,45,523927,1000,Restaurants
+956,45,580426,200,Telephone services
+957,45,595581,4000,Donations
+958,45,616315,600,Apparel and services
+959,45,642329,3000,Household operations
+960,45,571970,60,Reading
+961,45,644226,800,Property taxes
+962,45,632961,300,Personal care products and services
+963,45,473173,900,Household furnishings
+964,45,620120,8000,Personal taxes
+965,45,575030,6000,Transportation
+966,45,621924,2000,Mortgage payments
+967,46,630626,3000,Rented dwellings
+968,46,536346,2000,Home maintenance
+969,46,520660,3000,Healthcare
+970,552988,46,30000,NA
+971,46,567195,700,Personal insurance and pensions
+972,46,527449,50,Alcohol
+973,46,459381,200,Water and other public services
+974,46,595298,5000,Groceries
+975,46,466907,500,Electricity
+976,46,537281,200,Housekeeping supplies
+977,46,523927,600,Restaurants
+978,46,580426,700,Telephone services
+979,46,595581,600,Donations
+980,46,616315,700,Apparel and services
+981,46,503701,2000,Miscellaneous
+982,46,644226,2000,Property taxes
+983,46,632961,70,Personal care products and services
+984,46,473173,1000,Household furnishings
+985,46,620120,3000,Personal taxes
+986,46,575030,1000,Transportation
+987,46,621924,1000,Mortgage payments
+988,47,630626,5000,Rented dwellings
+989,552988,47,10000,NA
+990,47,567195,3000,Personal insurance and pensions
+991,47,527449,300,Alcohol
+992,47,459381,700,Water and other public services
+993,47,595298,4000,Groceries
+994,47,466907,600,Electricity
+995,47,589943,200,Lodging away from home
+996,47,523927,2000,Restaurants
+997,47,580426,20,Telephone services
+998,47,595581,200,Donations
+999,47,616315,2000,Apparel and services
+1000,47,503701,500,Miscellaneous
+1001,47,571970,80,Reading
+1002,47,473173,600,Household furnishings
+1003,47,620120,900,Personal taxes
+1004,47,575030,4000,Transportation
+1005,48,630626,4000,Rented dwellings
+1006,552988,48,40000,NA
+1007,48,567195,5000,Personal insurance and pensions
+1008,48,527449,10,Alcohol
+1009,48,459381,500,Water and other public services
+1010,48,595298,2000,Groceries
+1011,48,466907,900,Electricity
+1012,48,537281,500,Housekeeping supplies
+1013,48,523927,3000,Restaurants
+1014,48,580426,600,Telephone services
+1015,48,595581,2000,Donations
+1016,48,616315,100,Apparel and services
+1017,48,503701,200,Miscellaneous
+1018,48,632961,500,Personal care products and services
+1019,48,473173,300,Household furnishings
+1020,48,620120,6000,Personal taxes
+1021,48,575030,3000,Transportation
+1022,49,640784,1000,Tobacco
+1023,49,630626,5000,Rented dwellings
+1024,49,536346,200,Home maintenance
+1025,510031,49,1000,NA
+1026,49,520660,2000,Healthcare
+1027,552988,49,40000,NA
+1028,49,567195,1000,Personal insurance and pensions
+1029,49,527449,300,Alcohol
+1030,49,459381,500,Water and other public services
+1031,49,595298,3000,Groceries
+1032,49,466907,700,Electricity
+1033,49,606730,1000,Entertainment
+1034,49,589943,4000,Lodging away from home
+1035,49,577992,2000,Education
+1036,49,580426,1000,Telephone services
+1037,49,595581,3000,Donations
+1038,49,616315,400,Apparel and services
+1039,49,642329,400,Household operations
+1040,49,503701,3000,Miscellaneous
+1041,49,571970,20,Reading
+1042,49,644226,2000,Property taxes
+1043,49,632961,300,Personal care products and services
+1044,49,473173,300,Household furnishings
+1045,49,620120,6000,Personal taxes
+1046,49,575030,5000,Transportation
+1047,49,621924,3000,Mortgage payments
+1048,52,630626,4000,Rented dwellings
+1049,52,536346,2000,Home maintenance
+1050,52,520660,3000,Healthcare
+1051,552988,52,50000,NA
+1052,52,527449,70,Alcohol
+1053,52,459381,7,Water and other public services
+1054,52,595298,4000,Groceries
+1055,52,466907,400,Electricity
+1056,52,589943,50,Lodging away from home
+1057,52,577992,2000,Education
+1058,52,523927,2000,Restaurants
+1059,52,580426,700,Telephone services
+1060,52,616315,800,Apparel and services
+1061,52,642329,1000,Household operations
+1062,52,503701,4000,Miscellaneous
+1063,52,644226,1000,Property taxes
+1064,52,632961,20,Personal care products and services
+1065,52,473173,3000,Household furnishings
+1066,52,620120,9000,Personal taxes
+1067,52,575030,5000,Transportation
+1068,552988,53,50000,NA
+1069,53,527449,90,Alcohol
+1070,53,459381,70,Water and other public services
+1071,53,595298,2000,Groceries
+1072,53,466907,2000,Electricity
+1073,53,589943,2000,Lodging away from home
+1074,53,537281,600,Housekeeping supplies
+1075,53,523927,400,Restaurants
+1076,53,595581,3000,Donations
+1077,53,616315,4000,Apparel and services
+1078,53,642329,900,Household operations
+1079,53,503701,6000,Miscellaneous
+1080,53,571970,200,Reading
+1081,53,473173,1000,Household furnishings
+1082,620120,53,7000,NA
+1083,53,621924,400,Mortgage payments
+1084,510031,54,4000,NA
+1085,552988,54,30000,NA
+1086,54,567195,4000,Personal insurance and pensions
+1087,54,527449,200,Alcohol
+1088,54,459381,2000,Water and other public services
+1089,54,595298,1000,Groceries
+1090,54,466907,1000,Electricity
+1091,54,589943,2000,Lodging away from home
+1092,54,523927,1000,Restaurants
+1093,54,580426,900,Telephone services
+1094,54,616315,4000,Apparel and services
+1095,54,642329,1000,Household operations
+1096,54,503701,3000,Miscellaneous
+1097,54,571970,500,Reading
+1098,54,632961,2000,Personal care products and services
+1099,54,473173,1000,Household furnishings
+1100,54,620120,4000,Personal taxes
+1101,54,575030,500,Transportation
+1102,54,621924,10000,Mortgage payments
+1103,510031,55,4000,NA
+1104,552988,55,30000,NA
+1105,55,527449,1000,Alcohol
+1106,55,459381,600,Water and other public services
+1107,55,595298,5000,Groceries
+1108,55,466907,2000,Electricity
+1109,55,523927,1000,Restaurants
+1110,55,580426,700,Telephone services
+1111,55,595581,300,Donations
+1112,55,503701,8000,Miscellaneous
+1113,55,473173,6000,Household furnishings
+1114,620120,55,2000,NA
+1115,55,575030,20000,Transportation
+1116,55,621924,4000,Mortgage payments
+1117,552988,56,30000,NA
+1118,56,567195,2000,Personal insurance and pensions
+1119,56,527449,300,Alcohol
+1120,56,459381,2000,Water and other public services
+1121,56,595298,5000,Groceries
+1122,56,466907,1000,Electricity
+1123,56,589943,3000,Lodging away from home
+1124,56,537281,2000,Housekeeping supplies
+1125,56,523927,7000,Restaurants
+1126,56,595581,2000,Donations
+1127,56,616315,3000,Apparel and services
+1128,56,642329,400,Household operations
+1129,56,503701,5000,Miscellaneous
+1130,56,571970,900,Reading
+1131,56,473173,3000,Household furnishings
+1132,56,620120,800,Personal taxes
+1133,56,575030,7000,Transportation
+1134,56,621924,4000,Mortgage payments
+1135,57,503218,4000,Natural gas
+1136,57,630626,40000,Rented dwellings
+1137,57,536346,5000,Home maintenance
+1138,57,520660,20000,Healthcare
+1139,552988,57,20000,NA
+1140,57,567195,40000,Personal insurance and pensions
+1141,57,527449,100,Alcohol
+1142,57,459381,1000,Water and other public services
+1143,57,595298,10000,Groceries
+1144,57,606730,3000,Entertainment
+1145,57,589943,10000,Lodging away from home
+1146,57,577992,20000,Education
+1147,57,523927,20000,Restaurants
+1148,57,580426,9000,Telephone services
+1149,57,642329,6000,Household operations
+1150,57,503701,10000,Miscellaneous
+1151,57,571970,200,Reading
+1152,57,644226,9000,Property taxes
+1153,57,632961,2000,Personal care products and services
+1154,57,473173,3000,Household furnishings
+1155,620120,57,200000,NA
+1156,57,621924,100000,Mortgage payments
+1157,510031,58,100,NA
+1158,552988,58,3000,NA
+1159,58,527449,90,Alcohol
+1160,58,459381,3,Water and other public services
+1161,58,595298,1000,Groceries
+1162,58,466907,60,Electricity
+1163,58,589943,800,Lodging away from home
+1164,58,523927,200,Restaurants
+1165,58,642329,300,Household operations
+1166,58,571970,6,Reading
+1167,58,632961,6,Personal care products and services
+1168,58,473173,200,Household furnishings
+1169,58,620120,200,Personal taxes
+1170,58,575030,1000,Transportation
+1171,58,621924,400,Mortgage payments
+1172,552988,59,5000,NA
+1173,59,567195,300,Personal insurance and pensions
+1174,59,527449,200,Alcohol
+1175,59,459381,100,Water and other public services
+1176,59,595298,500,Groceries
+1177,59,466907,200,Electricity
+1178,59,577992,500,Education
+1179,59,595581,400,Donations
+1180,59,642329,20,Household operations
+1181,59,503701,200,Miscellaneous
+1182,59,571970,50,Reading
+1183,59,632961,30,Personal care products and services
+1184,59,473173,200,Household furnishings
+1185,59,620120,600,Personal taxes
+1186,59,575030,3000,Transportation
+1187,59,621924,500,Mortgage payments
+1188,510031,60,200,NA
+1189,552988,60,3000,NA
+1190,60,527449,50,Alcohol
+1191,60,459381,300,Water and other public services
+1192,60,595298,600,Groceries
+1193,60,466907,70,Electricity
+1194,60,589943,200,Lodging away from home
+1195,60,537281,80,Housekeeping supplies
+1196,60,523927,700,Restaurants
+1197,60,580426,200,Telephone services
+1198,60,616315,600,Apparel and services
+1199,60,642329,30,Household operations
+1200,60,503701,300,Miscellaneous
+1201,60,571970,50,Reading
+1202,60,473173,80,Household furnishings
+1203,620120,60,200,NA
+1204,60,575030,2000,Transportation
+1205,61,630626,3000,Rented dwellings
+1206,510031,61,400,NA
+1207,552988,61,4000,NA
+1208,61,567195,100,Personal insurance and pensions
+1209,61,527449,90,Alcohol
+1210,61,459381,300,Water and other public services
+1211,61,595298,600,Groceries
+1212,61,466907,200,Electricity
+1213,61,589943,70,Lodging away from home
+1214,61,577992,300,Education
+1215,61,537281,100,Housekeeping supplies
+1216,61,523927,900,Restaurants
+1217,61,595581,80,Donations
+1218,61,616315,600,Apparel and services
+1219,61,642329,60,Household operations
+1220,61,503701,900,Miscellaneous
+1221,61,632961,300,Personal care products and services
+1222,61,473173,300,Household furnishings
+1223,61,620120,200,Personal taxes
+1224,61,621924,1000,Mortgage payments
+1225,62,630626,2000,Rented dwellings
+1226,510031,62,400,NA
+1227,552988,62,10000,NA
+1228,62,567195,900,Personal insurance and pensions
+1229,62,527449,200,Alcohol
+1230,62,459381,300,Water and other public services
+1231,62,595298,300,Groceries
+1232,62,466907,200,Electricity
+1233,62,577992,600,Education
+1234,62,537281,100,Housekeeping supplies
+1235,62,523927,100,Restaurants
+1236,62,580426,200,Telephone services
+1237,62,595581,300,Donations
+1238,62,503701,2000,Miscellaneous
+1239,62,571970,60,Reading
+1240,62,632961,100,Personal care products and services
+1241,62,473173,90,Household furnishings
+1242,62,620120,1000,Personal taxes
+1243,62,575030,3000,Transportation
+1244,63,630626,5000,Rented dwellings
+1245,552988,63,100000,NA
+1246,63,567195,10000,Personal insurance and pensions
+1247,63,527449,100,Alcohol
+1248,63,459381,400,Water and other public services
+1249,63,595298,2000,Groceries
+1250,63,466907,300,Electricity
+1251,63,589943,1000,Lodging away from home
+1252,63,537281,80,Housekeeping supplies
+1253,63,523927,80,Restaurants
+1254,63,580426,1000,Telephone services
+1255,63,595581,800,Donations
+1256,63,642329,700,Household operations
+1257,63,503701,400,Miscellaneous
+1258,63,571970,20,Reading
+1259,63,473173,1000,Household furnishings
+1260,620120,63,20000,NA
+1261,63,575030,3000,Transportation
+1262,63,621924,20000,Mortgage payments
+1263,64,630626,2000,Rented dwellings
+1264,64,536346,2000,Home maintenance
+1265,510031,64,1000,NA
+1266,64,520660,1000,Healthcare
+1267,552988,64,20000,NA
+1268,64,567195,4000,Personal insurance and pensions
+1269,64,527449,100,Alcohol
+1270,64,459381,500,Water and other public services
+1271,64,595298,1000,Groceries
+1272,64,466907,100,Electricity
+1273,64,589943,4000,Lodging away from home
+1274,64,577992,700,Education
+1275,64,523927,500,Restaurants
+1276,64,580426,400,Telephone services
+1277,64,503701,2000,Miscellaneous
+1278,64,644226,1000,Property taxes
+1279,64,473173,200,Household furnishings
+1280,64,620120,6000,Personal taxes
+1281,64,621924,1000,Mortgage payments
+1282,65,630626,2000,Rented dwellings
+1283,65,536346,2000,Home maintenance
+1284,510031,65,300,NA
+1285,65,520660,2000,Healthcare
+1286,552988,65,10000,NA
+1287,65,567195,2000,Personal insurance and pensions
+1288,65,527449,400,Alcohol
+1289,65,459381,400,Water and other public services
+1290,65,595298,1000,Groceries
+1291,65,466907,60,Electricity
+1292,65,606730,600,Entertainment
+1293,65,589943,500,Lodging away from home
+1294,65,523927,700,Restaurants
+1295,65,580426,10,Telephone services
+1296,65,595581,1000,Donations
+1297,65,616315,600,Apparel and services
+1298,65,642329,700,Household operations
+1299,65,503701,500,Miscellaneous
+1300,65,571970,20,Reading
+1301,65,644226,500,Property taxes
+1302,65,632961,200,Personal care products and services
+1303,65,473173,400,Household furnishings
+1304,65,620120,2000,Personal taxes
+1305,65,621924,1000,Mortgage payments
+1306,0,630626,4000,Rented dwellings
+1307,0,536346,50,Home maintenance
+1308,552988,0,20000,NA
+1309,0,567195,2000,Personal insurance and pensions
+1310,0,527449,200,Alcohol
+1311,0,459381,300,Water and other public services
+1312,0,595298,3000,Groceries
+1313,0,466907,800,Electricity
+1314,0,589943,800,Lodging away from home
+1315,0,577992,100,Education
+1316,0,537281,30,Housekeeping supplies
+1317,0,580426,300,Telephone services
+1318,0,503701,400,Miscellaneous
+1319,0,571970,80,Reading
+1320,0,644226,1000,Property taxes
+1321,0,473173,1000,Household furnishings
+1322,0,620120,800,Personal taxes
+1323,0,575030,2000,Transportation
+1324,0,621924,1000,Mortgage payments

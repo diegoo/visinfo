@@ -1,0 +1,4 @@
+TP-Final: Presentaciones preliminares
+Por grupos, preparen una serie de slides (no más de 10) para comunicar al resto de la clase los detalles del challenge asignado, las preguntas a responder, el tipo de datos y (al menos) las preliminares de las visualizaciones a construir. Pueden usar dibujos a mano alzada, storyboards y cualquier otro prototipo que crean útil para transmitir sus ideas. Recuerden que las propuestas serán oídas por el resto de la clase: aprovechen la oportunidad para plantear las posibles dificultades o puntos oscuros en el diseño y así obtener el feedback necesario para resolverlas. La última slide deberá contener las preguntas sobre las que les gustaría recibir el mencionado feedback. La presentación debe ser concisa y no exceder los 15 minutos. 
+
+http://topogram.io/#/?id=topogram
